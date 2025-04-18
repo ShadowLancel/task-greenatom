@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\fetch_data.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\fetch_data.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\dashboard.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\dashboard.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{AA4AA178-486B-4D56-A3A5-445D67E59208}|aviationstack-task\\flight_tracker.pyproj|solutionrelative:aviationstack-task\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "schema.sql ",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\schema.sql",
+              "RelativeDocumentMoniker": "aviationstack-task\\schema.sql",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\schema.sql",
+              "RelativeToolTip": "aviationstack-task\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-18T14:36:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fetch_data.py",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\fetch_data.py",
+              "RelativeDocumentMoniker": "aviationstack-task\\fetch_data.py",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\fetch_data.py",
+              "RelativeToolTip": "aviationstack-task\\fetch_data.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-16T17:58:56.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard.py",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\dashboard.py",
+              "RelativeDocumentMoniker": "aviationstack-task\\dashboard.py",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\dashboard.py",
+              "RelativeToolTip": "aviationstack-task\\dashboard.py",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-16T17:59:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\docker-compose.yml",
+              "RelativeDocumentMoniker": "aviationstack-task\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\docker-compose.yml",
+              "RelativeToolTip": "aviationstack-task\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-16T16:19:55.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\Dockerfile",
+              "RelativeDocumentMoniker": "aviationstack-task\\Dockerfile",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\Dockerfile",
+              "RelativeToolTip": "aviationstack-task\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T16:42:41.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\requirements.txt",
+              "RelativeDocumentMoniker": "aviationstack-task\\requirements.txt",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\requirements.txt",
+              "RelativeToolTip": "aviationstack-task\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-16T16:41:21.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\.env",
+              "RelativeDocumentMoniker": "aviationstack-task\\.env",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\aviationstack-task\\aviationstack-task\\.env",
+              "RelativeToolTip": "aviationstack-task\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T22:30:18.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
